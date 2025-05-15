@@ -1,2 +1,2 @@
-# DBMS - Menaxhimin e një klinike dentare
+# DBMS - Menaxhimi i një klinike dentare
 Kam realizuar një projekt në DBMS së bashku me dy kolege, ku kemi punuar për ndërtimin e një sistemi për menaxhimin e një klinike dentare. Projekti kishte për qëllim të organizonte dhe lehtësonte ruajtjen e të dhënave për pacientët, terminët, stafin mjekësor dhe shërbimet dentare. Gjatë zhvillimit, kemi përdorur struktura relacionale për krijimin e tabelave dhe vendosjen e lidhjeve ndërmjet tyre, duke u përqendruar në efikasitetin dhe integritetin e të dhënave. Ky projekt na ndihmoi të thellojmë njohuritë tona praktike në menaxhimin e databazave dhe bashkëpunimin në një mjedis ekipor. 
